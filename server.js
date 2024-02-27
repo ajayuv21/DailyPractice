@@ -1,4 +1,4 @@
-/*-----http module--------
+//-----http module--------
 
 var http=require('http');
 http.createServer((req,res)=>{
@@ -7,7 +7,7 @@ http.createServer((req,res)=>{
     console.log('srever is running...')
 }).listen(3152)
 
-*/
+
 
 
 /*
