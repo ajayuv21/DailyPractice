@@ -1,0 +1,15 @@
+.myHeader{
+  width:auto;
+  height:auto;
+  color:rgb(235, 138, 35);
+  font-size: 35px;
+  background-color: forestgreen;
+}
+.box{
+  background-color: rgb(151, 151, 190);
+}
+.para{
+  color:red;
+
+}
+.btn{background-color:orange}
